@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: TCP-Server
+Version: 1.0
+Summary: Mutithreaded TCP Server
+Home-page: https://github.com/Harshini73/TCP_Server
+Author: Harshini Komali
+Author-email: harshinikomali73@gmail.com
+License: UNKNOWN
+Description: # TCP_Server
+        A multithreaded TCP server implementation in python3. 
+        
+Platform: UNKNOWN
